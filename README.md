@@ -1,7 +1,7 @@
 <h1 align="center">I'm xbIzzy</h1>
 <h3 align="center">Make stuff on the side when high and bored</h3>
 
-- Currently working on xbIzzys Console Tool (100% Free) (In Development)
+- Currently working on xbIzzys Console Tool for RGH (100% Free) (In Development)
 
 <h3 align="left">My Shit:</h3>
 <p align="left">
